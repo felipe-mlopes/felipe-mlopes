@@ -6,10 +6,10 @@ Lover of Technology and Coding
 
 ## About me
 [![Github Bagde](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/felipe-mlopes)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-mlopes](https://www.linkedin.com/in/felipe-mlopes)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-mlopes)](https://www.linkedin.com/in/felipe-mlopes)
 
 ## Languages and Tools:
-[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-mlopess&show_icons=true&theme=dracula)](https://github.com/felipe-mlopes/github-readme-stats)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-mlopes&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-mlopes&layout=compact)](https://github.com/felipe-mlopes/github-readme-stats)
 
 <code><img heigth="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></code>
@@ -35,10 +35,10 @@ Lover of Technology and Coding
 <code><img heigth="20" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></code>
 <code><img heigth="20" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /></code>
 
-<code><img heigth="20" src="<code><img heigth="20" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /></code>
-<code><img heigth="20" src="<code><img heigth="20" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" /></code>
-<code><img heigth="20" src="<code><img heigth="20" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /></code>
-<code><img heigth="20" src="<code><img heigth="20" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></code>
+<code><img heigth="20" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /></code>
+<code><img heigth="20" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" /></code>
+<code><img heigth="20" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /></code>
+<code><img heigth="20" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></code>
 
 - Thanks for visiting.
 
